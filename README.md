@@ -23,11 +23,13 @@ Python, Pandas, Seaborn, Matplotlib
 ![نمودار سود بر اساس تخفیف](discount_profit_chart.JPG)
 ## پیشنهاد
 سقف تخفیف دسته‌ی مبلمان به حداکثر ۲۰٪ محدود شود تا از ضرر مستمر در این دسته جلوگیری شود.
-
-## فایل‌ها
-- `superstore_analysis.ipynb` — کد کامل تحلیل
-- `superstore.csv` — دیتاست خام
+دیتاست خام
 ## داشبورد Power BI
 یک داشبورد تعاملی با نمودار سود بر اساس دسته‌بندی، فیلتر منطقه‌ای، و کارت مجموع سود کل ساخته شد.
 
 ![داشبورد Power BI](powerbi_dashboard.JPG)
+## فایل‌ها
+- `superstore_analysis.ipynb` — کد اصلی تحلیل (Pandas + Seaborn)
+- `sql_pandas_practice.ipynb` — تمرین مقایسه‌ای SQL و Pandas (JOIN, CASE WHEN, HAVING, GROUP BY, pivot_table) روی همین دیتاست
+- `superstore.csv` — دیتاست خام
+- `powerbi_dashboard.png` — اسکرین‌شات داشبورد Power BI
