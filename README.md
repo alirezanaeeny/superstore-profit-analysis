@@ -27,3 +27,7 @@ Python, Pandas, Seaborn, Matplotlib
 ## فایل‌ها
 - `superstore_analysis.ipynb` — کد کامل تحلیل
 - `superstore.csv` — دیتاست خام
+## داشبورد Power BI
+یک داشبورد تعاملی با نمودار سود بر اساس دسته‌بندی، فیلتر منطقه‌ای، و کارت مجموع سود کل ساخته شد.
+
+![داشبورد Power BI](powerbi_dashboard.JPG)
